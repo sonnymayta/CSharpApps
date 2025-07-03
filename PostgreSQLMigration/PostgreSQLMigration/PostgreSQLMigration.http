@@ -1,0 +1,6 @@
+@PostgreSQLMigration_HostAddress = http://localhost:5161
+
+GET {{PostgreSQLMigration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
