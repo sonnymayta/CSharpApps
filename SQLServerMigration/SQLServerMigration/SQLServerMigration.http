@@ -1,0 +1,6 @@
+@SQLServerMigration_HostAddress = http://localhost:5031
+
+GET {{SQLServerMigration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
